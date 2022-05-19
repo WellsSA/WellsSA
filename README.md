@@ -20,9 +20,11 @@
 
 [jsexpertguide]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
 
+![Linkedin](https://user-images.githubusercontent.com/41883467/169410413-81c0ef73-c784-4c97-8016-83a2f982edb9.png)
+
 # Hello there, **Wellington S. Almeida** over here! 🚀
 
-- ♉️ My age: **21yo** - yup, I born in 2000! Jokes allowed 😄
+- ♉️ My age: **22yo** - yup, I born in 2000! Jokes allowed 😄
 - ✨ My job: **Senior Software Engineer** at [@Holonic][holonic] - working on **Silicon Valley** projects!
 - 🌱 My job: **Community Manager** at [@EW.IT][ewit], with the legend [@Erick Wendel][erickwendel]!
 - 🚀 My job: **NodeJS Instructor** at [@Coders Club][codersclub]
