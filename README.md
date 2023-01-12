@@ -28,6 +28,11 @@
 
 ![Linkedin cover image](https://user-images.githubusercontent.com/41883467/169410413-81c0ef73-c784-4c97-8016-83a2f982edb9.png)
 
+<!-- ![Snake grid wells animation](https://github.com/wellssa/wellssa/blob/output/github-contribution-grid-snake.svg) -->
+<div>
+  <img height="180em" width="100%" src="https://github.com/wellssa/wellssa/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
 # Hello there, **Wellington S. Almeida** over here! 🚀
 
 - ♉️ My age: **22yo** - yup, I was born in 2000! Jokes allowed 😄
