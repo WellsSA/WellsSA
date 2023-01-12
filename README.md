@@ -96,8 +96,9 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsSA&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://y.yarn.co/b9b87700-7860-440f-a106-d2bf682467bf_text.gif"/>
 </div>
-</div>
+
 
 <br />
 
@@ -108,3 +109,9 @@
  - Check out my (really outdated but precious) [Portfolio][portfolio]!
 - Check out the [JSExpert Code Challenges][jsexpertguide] I've created as well!
 
+# That's all, space rangers!
+
+If you like this readme just drop me a message on [Instagram][instagram] :) 
+<div>
+    <img height="180em" src="https://media.tenor.com/7h5BCn-H4bIAAAAM/carl-fredricksen-thumbs-up.gif"/>
+</div>
