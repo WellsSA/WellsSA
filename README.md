@@ -1,3 +1,4 @@
+<!-- ### INTRO SECTION URLS ### -->
 [portfolio]: https://wellsadev.com
 [holonic]: https://www.linkedin.com/company/becomeholonic/mycompany/
 [codersclub]: https://codersclub.com.br/
@@ -11,6 +12,7 @@
 [saintseiya]: https://en.wikipedia.org/wiki/Saint_Seiya:_The_Lost_Canvas
 [hollowknight]: https://store.steampowered.com/app/367520/Hollow_Knight/
 
+<!-- ### CONTACT SECTION URLS ### -->
 [rocketprofile]: https://app.rocketseat.com.br/me/wellington-s-almeida
 [linkedin]: https://www.linkedin.com/in/wells-sa/
 [instagram]: https://www.instagram.com/wells.sa/
@@ -18,13 +20,17 @@
 [slides]: https://slides.com/wellssa
 [curriculum]: https://wellsadev.com/curriculum.en.pdf
 
+<!-- ### MORE INFO SECTION URLS ### -->
 [jsexpertguide]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
 
-![Linkedin](https://user-images.githubusercontent.com/41883467/169410413-81c0ef73-c784-4c97-8016-83a2f982edb9.png)
+<!-- https://github-readme-stats.vercel.app -->
+[github-stats]:https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WellsSA&show_icons=true&theme=radical
+
+![Linkedin cover image](https://user-images.githubusercontent.com/41883467/169410413-81c0ef73-c784-4c97-8016-83a2f982edb9.png)
 
 # Hello there, **Wellington S. Almeida** over here! 🚀
 
-- ♉️ My age: **22yo** - yup, I born in 2000! Jokes allowed 😄
+- ♉️ My age: **22yo** - yup, I was born in 2000! Jokes allowed 😄
 - ✨ My job: **Senior Software Engineer** at [@Holonic][holonic] - working on **Silicon Valley** projects!
 - 🌱 My job: **Community Manager** at [@EW.IT][ewit], with the legend [@Erick Wendel][erickwendel]!
 - 🚀 My job: **NodeJS Instructor** at [@Coders Club][codersclub]
@@ -36,19 +42,27 @@
 - ⚡ Fun facts: Maybe I'm one of the biggest fans of [Saint Seiya][saintseiya] and [Hollow Knight][hollowknight]
 - 💠 Random facts: 
    - 🧓 My first programming language ever was `Pascal` (well, and `VBA`, kind of)
-   - 📂 I first started working with `PHP5`, `Boostrap` & `JQuery`
+   - 📂 I first started working with `PHP5`, `Boostrap` & `JQuery` back in 2016
    - ☕ I already studied to certify myself in `Java` 
    - 😅 Probably if you check my portfolio you'll find out I have some `Docker` certifications earned in the new year's eve working at IBM 
 
-![WellsSA's github stats](https://github-readme-stats.vercel.app/api?username=WellsSA&show_icons=true&theme=radical)
+![WellsSA's github stats][github-stats]
 
-[![Rocketseat profile](https://img.shields.io/badge/-🚀%20Rocketseat-%238257e6?style=flat)][rocketprofile]
-[![Instagram profile](https://img.shields.io/badge/-Instagram-%23E4405F?&style=flat&logo=instagram&logoColor=white)][instagram]
-[![Linkedin profile](https://img.shields.io/badge/-Linkedin-%230a66c2?style=flat&logo=LinkedIn)][linkedin]
-[![Slides.com profile](https://img.shields.io/badge/slides.com-%23E4637C.svg?&style=flat&logo=slides&logoColor=white)][slides]
-[![Facebook profile](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)][facebook]
-[![Meu Curriculo](https://img.shields.io/badge/-💼%20Resume-success)][curriculum]
-<!-- [![Meu Portfolio](https://img.shields.io/badge/-🚀%20Rocketseat-%2313448F?style=flat)][portfolio] -->
+[badge-rocket]: https://img.shields.io/badge/-🚀%20Rocketseat-%238257e6?style=flat
+[badge-instagram]: https://img.shields.io/badge/-Instagram-%23E4405F?&style=flat&logo=instagram&logoColor=white
+[badge-linkedin]: https://img.shields.io/badge/-Linkedin-%230a66c2?style=flat&logo=LinkedIn
+[badge-slides]: https://img.shields.io/badge/slides.com-%23E4637C.svg?&style=flat&logo=slides&logoColor=white
+[badge-facebook]: https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white
+[badge-curriculo]: https://img.shields.io/badge/-💼%20Resume-success
+[badge-portfolio]: https://img.shields.io/badge/-🚀%20Portfolio-%238257e6?style=flat
+
+[![Rocketseat profile][badge-rocket]][rocketprofile]
+[![Instagram profile][badge-instagram]][instagram]
+[![Linkedin profile][badge-linkedin]][linkedin]
+[![Slides.com profile][badge-slides]][slides]
+[![Facebook profile][badge-facebook]][facebook]
+[![Meu Curriculo][badge-curriculo]][curriculum]
+[![Meu Portfolio][badge-portfolio]][portfolio]
 
 
 ##
@@ -76,13 +90,13 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellsSA&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellsSA&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </div>
 
-<br>
+<br />
 
-# That's cool you're interested in
+# Cool projects I recommend you checking out:
 <!-- - If you wanna have more recent updates, my main social media currently is [Instagram][instagram]
 - If you saw any of my presentations, probably the slide you're looking at is in [Slides.com][slides]
 - In case you didn't know, I'm the main responsible for creating the [**JSExpert Code Challenges**][jsexpertguide], so don't forget to take a look and maybe try one of them 😉 -->
