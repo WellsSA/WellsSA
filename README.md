@@ -35,7 +35,7 @@
 
 # Hello there, **Wellington S. Almeida** over here! 🚀
 
-- ♉️ My age: **22yo** - yup, I was born in 2000! Jokes allowed 😄
+- ♉️ My age: **24yo** - yup, I was born in 2000! Jokes allowed 😄
 - ✨ My job: **Senior Software Engineer** at [@Holonic][holonic] - working on **Silicon Valley** projects!
 - 🌱 My job: **Community Manager** at [@EW.IT][ewit], with the legend [@Erick Wendel][erickwendel]!
 - 🚀 My job: **NodeJS Instructor** at [@Coders Club][codersclub]
@@ -106,7 +106,7 @@
 <!-- - If you wanna have more recent updates, my main social media currently is [Instagram][instagram]
 - If you saw any of my presentations, probably the slide you're looking at is in [Slides.com][slides]
 - In case you didn't know, I'm the main responsible for creating the [**JSExpert Code Challenges**][jsexpertguide], so don't forget to take a look and maybe try one of them 😉 -->
- - Check out my (really outdated but precious) [Portfolio][portfolio]!
+ - Check out my (really outdated but precious) 2018's [Portfolio][portfolio]!
 - Check out the [JSExpert Code Challenges][jsexpertguide] I've created as well!
 
 # That's all, space rangers!
