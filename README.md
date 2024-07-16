@@ -61,14 +61,13 @@
 [badge-curriculo]: https://img.shields.io/badge/-💼%20Resume-success
 [badge-portfolio]: https://img.shields.io/badge/-🚀%20Portfolio-%238257e6?style=flat
 
-[![Rocketseat profile][badge-rocket]][rocketprofile]
-[![Instagram profile][badge-instagram]][instagram]
+[![Meu Curriculo][badge-curriculo]][curriculum]
 [![Linkedin profile][badge-linkedin]][linkedin]
+[![Instagram profile][badge-instagram]][instagram]
+[![Meu Portfolio][badge-portfolio]][portfolio]
 [![Slides.com profile][badge-slides]][slides]
 [![Facebook profile][badge-facebook]][facebook]
-[![Meu Curriculo][badge-curriculo]][curriculum]
-[![Meu Portfolio][badge-portfolio]][portfolio]
-
+<!-- [![Rocketseat profile][badge-rocket]][rocketprofile] -->
 
 ##
 
